@@ -1,2 +1,4 @@
-146ff81 (HEAD -> main, origin/main, origin/HEAD) Finished Task 1.1
+2d77e36 Finished Task 2.1
+69c93d4 Finished Task 1.2
+146ff81 Finished Task 1.1
 066fb06 Initial commit
