@@ -1,3 +1,5 @@
+59e93d6 Finished Task 2.2
+0e46d53 Finished Task 2.1 (with log txt)
 2d77e36 Finished Task 2.1
 69c93d4 Finished Task 1.2
 146ff81 Finished Task 1.1
